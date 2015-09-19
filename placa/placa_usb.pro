@@ -1,4 +1,4 @@
-update=dom 18 ene 2015 16:13:26 ART
+update=sáb 19 sep 2015 19:09:13 ART
 last_client=kicad
 [general]
 version=1
@@ -24,21 +24,24 @@ EdgeLar=150
 TxtLar=120
 MSegLar=150
 LastNetListRead=placa_usb.net
+[cvpcb]
+version=1
+NetIExt=net
 [eeschema]
 version=1
 LibDir=../../kicadlibs/symbols
 [eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=conn
-LibName4=linear
-LibName5=regul
-LibName6=74xx
-LibName7=cmos4000
-LibName8=adc-dac
-LibName9=memory
-LibName10=xilinx
-LibName11=special
+LibName1=placa_usb-rescue
+LibName2=power
+LibName3=device
+LibName4=conn
+LibName5=linear
+LibName6=regul
+LibName7=74xx
+LibName8=cmos4000
+LibName9=adc-dac
+LibName10=memory
+LibName11=xilinx
 LibName12=microcontrollers
 LibName13=dsp
 LibName14=microchip
@@ -95,6 +98,3 @@ LibName64=silabs
 LibName65=relays
 LibName66=logo
 LibName67=txb0106
-[cvpcb]
-version=1
-NetIExt=net
